@@ -1,0 +1,14 @@
+h1{
+font-family: monospace;
+color: maroon;
+}
+button
+{
+    background-color: aquamarine;
+    color: crimson;
+    font-family: initial;
+}
+@keyframes  example{
+    from {box-shadow: 1px 1px 38px springgreen ;}
+    to {box-shadow:1px 1px 38px aquamarine;}
+}
